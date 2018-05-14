@@ -10,11 +10,11 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 The relevant files are;
-1. Ipython notebook - P1.ipynb
-2. Project Report - report.md
+1. Ipython notebook - `P1.ipynb`
+2. Project Report - `report.md`
 3. Project Results
 	1. Line segments are available in the folder `results` 
-	2. Extrapolated lanes are available in the folder `results_stabilized1`
+	2. Extrapolated lanes are available in the folder `results_stabilized`
 	3. Videos are available in the folder `test_videos_output`
 
 
